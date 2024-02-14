@@ -39,18 +39,17 @@ hr{
  
  .BUTTON_ZCQ:hover {
     border: solid #0a5659 1px;
-    background: #1E62D0;
-    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
-    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
-    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
-    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
-    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    background: #0a5659;
+    background-image: -webkit-linear-gradient(top, #0a5659, #11999e);
+    background-image: -moz-linear-gradient(top, #0a5659, #11999e);
+    background-image: -ms-linear-gradient(top, #0a5659, #11999e);
+    background-image: -o-linear-gradient(top, #0a5659, #11999e);
+    background-image: -webkit-gradient(to bottom, #0a5659, #11999e);
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
- }
-h1{
+ }#0c6c7059
     color: #66bfbf;
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
